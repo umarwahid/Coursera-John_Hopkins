@@ -52,7 +52,7 @@ span {
 }
 @media (min-width: 992px) {
 #para1,#para2, #para3 {
-    width:31%;
+    width:31.3%;
     float: left
 }
 }
